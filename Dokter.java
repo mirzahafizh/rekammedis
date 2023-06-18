@@ -10,3 +10,4 @@ public class Dokter extends Person {
         System.out.println(nama + "hasil diagnosa");
     }
 }
+
